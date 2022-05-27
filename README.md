@@ -1,2 +1,3 @@
 # forum-project
-backend project for a forum with API
+
+Java project for a forum including the API and error handling.
